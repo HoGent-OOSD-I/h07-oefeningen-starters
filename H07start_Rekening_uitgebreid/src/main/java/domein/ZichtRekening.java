@@ -15,7 +15,7 @@ public class ZichtRekening extends Rekening
 		return maxKredietOnderNul;
 	}
 
-	public final void setMaxKredietOnderNul(double maxKredietOnderNul)
+	public void setMaxKredietOnderNul(double maxKredietOnderNul)
 	{
 		if (maxKredietOnderNul > 0 || maxKredietOnderNul > getSaldo())
 			throw new IllegalArgumentException("Maxkrediet moet negatief zijn en "
