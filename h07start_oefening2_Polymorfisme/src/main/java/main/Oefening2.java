@@ -1,6 +1,6 @@
 package main;
 
-public class Oefening3 {
+public class Oefening2 {
 
 /*	 
 Huisdier dier = new Duif("Grijsje");
