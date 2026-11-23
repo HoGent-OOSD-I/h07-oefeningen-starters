@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>be.hogent</groupId>
-    <artifactId>H07start_oefeningPolymorfisme</artifactId>
+    <artifactId>H07start_oefening3_Polymorfisme</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
